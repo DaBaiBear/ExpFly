@@ -1,0 +1,5 @@
+name: ExpFly
+version: 1.0-SNAPSHOT
+main: org.ExpFly.ExpFly
+commands:
+  efly:
